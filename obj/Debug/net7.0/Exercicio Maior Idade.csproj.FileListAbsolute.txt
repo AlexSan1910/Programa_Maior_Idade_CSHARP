@@ -1,0 +1,15 @@
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Exercicio Maior Idade\bin\Debug\net7.0\Exercicio Maior Idade.exe
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Exercicio Maior Idade\bin\Debug\net7.0\Exercicio Maior Idade.deps.json
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Exercicio Maior Idade\bin\Debug\net7.0\Exercicio Maior Idade.runtimeconfig.json
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Exercicio Maior Idade\bin\Debug\net7.0\Exercicio Maior Idade.dll
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Exercicio Maior Idade\bin\Debug\net7.0\Exercicio Maior Idade.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Exercicio Maior Idade\obj\Debug\net7.0\Exercicio Maior Idade.csproj.AssemblyReference.cache
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Exercicio Maior Idade\obj\Debug\net7.0\Exercicio Maior Idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Exercicio Maior Idade\obj\Debug\net7.0\Exercicio Maior Idade.AssemblyInfoInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Exercicio Maior Idade\obj\Debug\net7.0\Exercicio Maior Idade.AssemblyInfo.cs
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Exercicio Maior Idade\obj\Debug\net7.0\Exercicio Maior Idade.csproj.CoreCompileInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Exercicio Maior Idade\obj\Debug\net7.0\Exercicio Maior Idade.dll
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Exercicio Maior Idade\obj\Debug\net7.0\refint\Exercicio Maior Idade.dll
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Exercicio Maior Idade\obj\Debug\net7.0\Exercicio Maior Idade.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Exercicio Maior Idade\obj\Debug\net7.0\Exercicio Maior Idade.genruntimeconfig.cache
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Exercicio Maior Idade\obj\Debug\net7.0\ref\Exercicio Maior Idade.dll
